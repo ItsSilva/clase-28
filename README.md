@@ -1,0 +1,1 @@
+En esta clase se presento cómo ingresar información al local storage y al session storage. 
